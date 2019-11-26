@@ -1,0 +1,6 @@
+{
+    "parent": "item/diamond_sword",
+	"overrides": [
+		{"predicate": {"custom_model_data":1234567}, "model": "item/custom/ancient_nords_gladius"}
+	]
+}
